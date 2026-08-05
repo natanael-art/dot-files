@@ -1,7 +1,0 @@
-[General]
-HotspotConnectionPath=
-HotspotName=ALHN-04E0
-HotspotPassword=
-ManageVirtualConnections=false
-SystemConnectionsByDefault=false
-UnlockModemOnDetection=true
