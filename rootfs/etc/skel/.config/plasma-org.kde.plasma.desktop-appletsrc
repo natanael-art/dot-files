@@ -318,13 +318,10 @@ pillsInactiveOpacity=30
 [Containments][435][General]
 AppletOrder=346;372;445
 
-[Containments][439]
+[Containments][446]
 ItemGeometries-1280x800=
-ItemGeometries-1366x768=
-ItemGeometries-1920x1080=
-ItemGeometries-800x600=
 ItemGeometriesHorizontal=
-activityId=a7eed940-3fa4-4ad2-b262-7e184db75c48
+activityId=7f5ca92b-5d1c-42c7-853f-c75375003cb1
 formfactor=0
 immutability=1
 lastScreen=0
@@ -332,12 +329,13 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][439][ConfigDialog]
+[Containments][446][ConfigDialog]
 DialogHeight=630
 DialogWidth=810
 
-[Containments][439][Wallpaper][org.kde.image][General]
-Image=file:///mita-i/versions/2025/share/wallpapers/Next/
+[Containments][446][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/01.jxl
+PreviewImage=file:///usr/share/wallpapers/01.jxl
 SlidePaths=/usr/share/wallpapers/
 
 [Containments170Appletsts][229][Configuration][General]
@@ -378,4 +376,4 @@ transparencyLevel=50
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/kubuntu-calamares.desktop,0,1e01c07e-0d8a-477c-a82f-33a901d8cd7a
+screenMapping=desktop:/kubuntu-calamares.desktop,0,7f5ca92b-5d1c-42c7-853f-c75375003cb1,desktop:/kubuntu-calamares.desktop,0,1e01c07e-0d8a-477c-a82f-33a901d8cd7a
