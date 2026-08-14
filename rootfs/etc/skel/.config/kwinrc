@@ -6,7 +6,15 @@ Id_4=c638e7e6-2394-4e1b-a5d4-5ba6029cabe4
 Number=4
 Rows=1
 
+[Tiling][73f061c8-b0e6-482d-b985-268cb2bdc09b][cdfb528c-a5f0-4e86-8a10-60bfbd6093ba]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][73f061c8-b0e6-482d-b985-268cb2bdc09b][e2d20ea9-497c-4903-920c-747d02502759]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][a9d46d8f-3173-4581-b665-3c8205acc309][cdfb528c-a5f0-4e86-8a10-60bfbd6093ba]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -14,7 +22,15 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][c638e7e6-2394-4e1b-a5d4-5ba6029cabe4][cdfb528c-a5f0-4e86-8a10-60bfbd6093ba]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][c638e7e6-2394-4e1b-a5d4-5ba6029cabe4][e2d20ea9-497c-4903-920c-747d02502759]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][da40b060-33b7-4219-9c56-4ba01b1bb39e][cdfb528c-a5f0-4e86-8a10-60bfbd6093ba]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -24,3 +40,7 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Xwayland]
 Scale=1
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae.v2
+theme=__aurorae__svg__Cyan-Light
