@@ -39,10 +39,10 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][2][Applets][5][Configuration]
-launchers=applications:systemsettings.desktop,applications:org.kubuntu.manage-software.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,preferred://browser
+launchers=applications:org.kde.kdeconnect.app.desktop,applications:org.kde.discover.desktop,applications:onlyoffice-desktopeditors.desktop,preferred://filemanager,applications:firefox.desktop
 
 [Containments][2][Applets][5][Configuration][General]
-launchers=applications:org.kde.discover.desktop
+launchers=applications:org.kde.kdeconnect.app.desktop,applications:org.kde.discover.desktop,applications:onlyoffice-desktopeditors.desktop,preferred://filemanager,applications:firefox.desktop
 
 [Containments][2][General]
 AppletOrder=5
