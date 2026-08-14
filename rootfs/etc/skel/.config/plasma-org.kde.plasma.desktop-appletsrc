@@ -4,7 +4,7 @@ RightButton;NoModifier=org.kde.contextmenu
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][109]
+[Containments][1]
 ItemGeometries-1280x800=
 ItemGeometriesHorizontal=
 formfactor=0
@@ -14,14 +14,14 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][109][ConfigDialog]
+[Containments][1][ConfigDialog]
 DialogHeight=540
 DialogWidth=810
 
-[Containments][109][Wallpaper][org.kde.image][General]
+[Containments][1][Wallpaper][org.kde.image][General]
 DarkLightScheduleState=AAAAAQAAAAgAAAGf+51weAAAAAAAAAGf+kuziAAAAZ/6X/rwAAAAAQAAAZ/82uIYAAABn/zvKYAAAAGgAMOdmAAAAAAAAAGf/3GWcAAAAZ//hdYIAAAAAQAAAaACAWUoAAABoAIVqKgAAAGgBenOoAAAAAAAAAGgBJd1cAAAAaAEq604AAAAAQAAAaAHJ+wgAAABoAc8J9AAAAGgCw/32AAAAAAAAAGgCb1QiAAAAaAJ0YCAAAAAAQAAAaAMTm8wAAABoAxioxAAAAGgEDYk+AAAAAAAAAGgDuMnuAAAAaAO91PIAAAAAQAAAaARdPJAAAABoBGJHlAAAAGgFVxKSAAAAAAAAAGgFAj+6AAAAaAUHSMoAAAAAQAAAaAWm3VQAAABoBavmZAAAAGgGoJzgAAAAAAAAAGgGS7SMAAAAaAZQu6gAAAAAQAAAaAbwfR4AAABoBvWFNAAAAGgH6iU6AAAAAAAAAGgHlShkAAAAaAeaLoYAAAAAQAAAaAg6HOgAAABoCD8jCg=
 DynamicMode=1
-Image=file:///usr/share/wallpapers/01.jxl
+Image=file:///usr/share/wallpapers/Canopee/contents/images/3840x2160.png
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][2]
