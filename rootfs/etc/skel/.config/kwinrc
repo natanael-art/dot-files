@@ -6,6 +6,9 @@ Id_4=c638e7e6-2394-4e1b-a5d4-5ba6029cabe4
 Number=4
 Rows=1
 
+[Plugins]
+blurEnabled=true
+
 [Tiling][73f061c8-b0e6-482d-b985-268cb2bdc09b][cdfb528c-a5f0-4e86-8a10-60bfbd6093ba]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
